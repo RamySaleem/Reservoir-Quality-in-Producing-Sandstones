@@ -1,0 +1,81 @@
+Form 124 - Electronic Version,,,,,,,,,
+Application for Permit to Modify Report,,,,,,,,,
+API:,,177000002801,ST:,01,BP:,00,,Water Depth:,35
+Well Name:,,A010,Status:,Permanently Abandoned,Type:,Development,,Submitted Dt:,04/26/2012
+Surface Lease:,, 00299,Area:,WC,Block:,45,,Approval Dt:,04/26/2012
+Bottom Lease:,, 00301,Area:,WC,Block:,56,,,
+Company:,,01834  Stone Energy Corporation,,,,,,,
+Permit Primary Type:,,ENHANCE,,,,,,,
+Permit Subtype(s):,,,,,,,,,
+,Artifical Lift,,,,,,,,
+Operation Description:,,,,,,,,,
+Utilize an HWO unit to install an electric submersible pump in the WC 56 A-10 Well to artificially lift the well. ,,,,,,,,,
+Procedural Narrative:,,,,,,,,,
+"Stone Energy Corporation
+",,,,,,,,,
+"March 15, 2012
+",,,,,,,,,
+"West Cameron Block 56, OCS- 00301, Well No. A-10 / API # 17-700-00028-01-S05
+",,,,,,,,,
+"Application for Permit to Modify Well (APM)
+",,,,,,,,,
+"Artificial Lift - ""Amph-3"" Sand
+",,,,,,,,,
+"
+",,,,,,,,,
+"The WC 56 Well No. A-10 was originally completed in November 2000 in the ""Amph-3"" Sand with existing perforations of 6,586'-6,591' MD. A vent screen completion was installed after the well sanded up and the well is currently producing via insert gas lift. The source gas is expected to run out in the near future with no potential for other gas.
+",,,,,,,,,
+"
+",,,,,,,,,
+"Therefore, approval is requested per the filing of this APM to utilize an HWO unit to install an electric submersible pump (ESP) to artificially lift the well to allow production to continue from the current ""Amph-3"" Sand completion.
+",,,,,,,,,
+"
+",,,,,,,,,
+"Seals will be pulled from the packer at 6200' MD and the hole circulated with filtered and treated sea water. An isolation assembly with a packer will be run to 6050' MD to isolate old squeeze perforations at 6084'-6093' MD. To conclude proposed operations, the ESP will be run  below a packer set at 5800' MD with an SCSSV above the packer. 
+",,,,,,,,,
+"
+",,,,,,,,,
+"Please see the following attachments for details regarding proposed operations:
+",,,,,,,,,
+"
+",,,,,,,,,
+"1.  WC 56 A-10 Amph-3 Sd ESP Install Operations Procedure
+",,,,,,,,,
+"2.  WC 56 A-10 Amph-3 Sd Current Wellbore Schematic
+",,,,,,,,,
+"3.  WC 56 A-10 Amph-3 Sd Proposed Wellbore Schematic
+",,,,,,,,,
+4.  WC 56 A-10 Amph-3 Sd ISS HWO BOP Schematic,,,,,,,,,
+Subsurface Type Safety Valve,,,,,,,,,
+Type Installed:,,SCSSV,,,,,,,
+Feet below Mudline:,,403,,,,,,,
+Blowout Preventers,,,,,,,,,
+Shut-in Tubing Pressure(psi):,,1766,,,,,,,
+Rig Information:,,,,,,,,,
+,Name,,,Id,Type,,ABS Date,Coast Guard Date,
+,* HYDRAULIC WORKOVER UNIT (LC),,,47939,HW,,12/31/2019,12/31/2019,
+,,,,,,------Test Pressure------,,,
+,Preventer,,,Size,Working,Low,,High,
+,ANNULAR,,,,5000,200,,3500,
+,COILTUBE,,,,,,,,
+,RAMSTACK,,,13.625,10000,200,,5000,
+,SNUBBING,,,,,,,,
+,WIRELINE,,,,5000,,,2000,
+Date Commencing Work(mm/dd/yyyy):,,,,05/01/2012,,,,,
+Estimated duration of the operation(days):,,,,3,,,,,
+Verbal Approval Information:,,,,No Verbals Given,,,,,
+Questions:,,,,,,,,,
+,Number,Question,,,,Response,Response Text,,
+,1,"Is H2S present in the well? If yes, then comment on the inclusion of a Contingency Plan for this operation.",,,,NO,,,
+,2,"Is this proposed operation the only lease holding activity for the subject lease? If yes, then comment.",,,,NO,,,
+,3,"Will all wells in the well bay and related production equipment be shut-in when moving on to or off of an offshore platform, or from well to well on the platform? If not, please explain.",,,,YES,,,
+,4,Are you downhole commingling two or more reservoirs?,,,,NO,,,
+,5,"Will the completed interval be within 500 feet of a lease or unit boundary line?  If yes, then comment.",,,,NO,,,
+,6,"For permanent abandonment, will casings be cut 15 feet below the mudline? If no, then comment.",,,,N/A,,,
+Attachments Submitted:,,,,,,,,,
+,File Type,File Description,,,,,Status,,
+,pdf,WC 56 A-10 Amph-3 Sd ESP Install Operations Procedure,,,,,Attached,,
+,PDF,Application for Permit to Modify Well,,,,,Attached,,
+,pdf,Proposed Wellbore Schematic,,,,,Attached,,
+,pdf,Current Wellbore Schematic,,,,,Attached,,
+,pdf,Rig/Coil Tubing/Snubbing Unit BOP Schematic,,,,,Attached,,
