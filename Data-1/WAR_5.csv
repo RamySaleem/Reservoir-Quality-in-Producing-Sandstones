@@ -1,0 +1,196 @@
+Form 133 - Electronic Version,,,,,,,,,,,,
+Well Activity Report,,,,,,,,,,,,
+,,Beginning Date:,,,06/07/2015,Ending Date:,,06/13/2015,,,,
+,,,REPORT IS NOT TO EXCEED 7 DAYS(1 WEEK) IN DURATION,,,,,,,,,
+GENERAL INFORMATION,,,,,,,,,,,,
+1. API WELL NO.(10 Digits),,,,,,,2. OPERATOR NAME,,,,,
+60-824-40013,,,,,,,Anadarko Petroleum Corporation,,,,,
+3. WELL NAME,,4. SIDETRACK NO.,,,5. BYPASS NO.,,,6. CONTACT NAME,,,,
+SS001,,00,,,00,,,Reier Gaylene,,,,
+"7. RIG NAME OR PRIMARY UNIT(e.g. Wireless Unit, Coil Tubing Unit, etc.)",,,,,,,,,8. WATER DEPTH,,9. ELEVATION AT KB,
+DIAMOND OCEAN BLACKHORNET,,,,,,,,, ,, ,
+10. CURRENT WELLBORE INFORMATION,,,,,,,,,,,,
+SURFACE,,,,,,BOTTOM,,,,,,
+LEASE NO.,,AREA NAME,,BLOCK NO.,,LEASE NO.,,AREA NAME,,,BLOCK NO.,
+G23481 ,,LL ,,400 ,,G23481 ,,LL ,,,400 ,
+WELLBORE,START DATE,TD DATE,,OP STATUS,END DATE,MD,,TVD,MW PPG,LAST BOP TEST DATE,LAST BOP TEST PRESSURE,
+,,,,,,,,,,,LOW,HIGH
+00,03/10/2010,11/18/2011,,PA, ,17715,,17642,10.4,06/08/2015,250,8000
+11. WELLBORE HISTORICAL INFORMATION,,,,,,,,,,,,
+WELLBORE,BOTTOM LEASE,,START DATE,,TD DATE,PLUGBACK DATE,,,,FINAL MD,FINAL TVD,
+There is no wellbore historical information available.,,,,,,,,,,,,
+12. CASING/LINER/TUBING RECORD,,,,,,,,,,,,
+TUBULAR TYPE,HOLE SIZE (IN),SIZE (IN),WEIGHT (#/FEET),GRADE,TEST PRESSURE (psi),,SHOE TEST (EMW),,SETTING DEPTH (MD),,CEMENT QUANTITY      (Cubic Feet),
+,,,,,,,,,LOW,HIGH,,
+C,26,20,166.56,X-56,1550,,10.4,,0,9595,13526,
+C,26,20,129.33,X-56,1550,,10.4,,0,12573,13526,
+C,17,13.625,88.2,HCQ----125,3407,,11.1,,0,15300,968,
+C,12.25,9.875,62.8,HCQ---125,2750,, ,,0,17676,680,
+"13. OPEN HOLE TOOLS, MUDLOGS, AND DIRECTIONAL SURVEYS",,,,,,,,,,,,
+SERVICE COMPANY,,,DATE OPERATIONS COMPLETED,,TOOL LOGGING METHOD,,LOG TOOL CODES,,,INTERVAL DEPTH(MD),,
+,,,,,,,,,,TOP,BOTTOM,
+NO LOGGING,,,,,,,,,,,,
+14. IDENTIFY OTHER OPEN HOLE DATA COLLECTED,,,,,,,,,,,,
+,,YES,NO,,,YES,NO,,,,YES,NO
+VELOCITY SURVEYS,, , ,PALEO SAMPLES,, , ,SIDEWALL SAMPLES,,, , 
+CONVENTIONAL CORES,, , ,LITHO SAMPLES,, , ,GEOCHEM SAMPLES,,, , 
+15. WELL ACTIVITY SUMMARY,,,,,,,,,,,,
+"6/7/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Finish POOH with production tbg standing back 5-1/2"" tubing in derrick. R/D Franks' handling tools from main rotary. R/U 5"" DP handling tools, TIH w/FMC SLT with
+",,,,,,,,,,,,
+"w/Bushing, Wash across top of SST with FMC wash sub @ 10 BPM w/450 psi.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Function test Diverter with 5"" DP from Driller's panel. 24 secs to close. Observed all diverter valve functions.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"TIH with test assembly and wear bushing from 367' to top of S/STree @ 9245'.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"While TIH testing choke manifold and S/Sea fail safe valves on BOPS @ 20:00 hrs using IPT procedure with 4 off-line tests. Performed test #14, #1,#2 and test #3 using cement unit with 10.4 ppg CaCl2 recording with SureTec. 250L/P-8000H/P 5/5 mins. Testing from Driller's panel on Yellow pod. Completed test #3 at 23:45 hrs.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/8/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Test BOPS from Driller's panel on Yellow pod SEM A. Perform test using cement unit with 10.4 ppg CaCl2 recording with SurTec following IPT procedure.
+",,,,,,,,,,,,
+"Test Rams/Fail Safe 250L/P-8000H/P 5/5 mins; Annulars: 250L/P-7000H/P 5/5 min. Function test BOP's from Toolpusher Panel Blue Pod Sem A. Function Test Diverter from Toolspusher
+",,,,,,,,,,,,
+"Panel Blue Pod Sem A = 24 sec 26 gal to Close, 23 sec 24 gal to Open. 
+",,,,,,,,,,,,
+"Shear out of wear bushing with 30k over. Pump at 10 bpm with 370 psi down lower kill for SLT/WB profiling. Pressure increase indicated good shear out of wear bushing.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Function all shear rams from Toolpusher's panel on Blue pod.
+",,,,,,,,,,,,
+"-Upper BSR: Close: 40 secs 43.9 gals Open: 37 secs 39.5 gals
+",,,,,,,,,,,,
+"-Lower BSR: Close: 36 secs 42.5 gals Open: 37 secs 39.6 gals
+",,,,,,,,,,,,
+"-Casing shear rams: Close: 32 secs 42.8 gals Open: 35 secs 37.5 gals
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"POOH & M/U Baker 9-7/8"" retainer, TIH on 5"" workstring.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"*RPM approved for 6/8/15 Statement of Fact for surface flow meter inaccuracy. Third party Well Compatability Verification still valid. 
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/9/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"TIH with retainer & set on depth @ 17,000'. Pull & set 50k down to verify set. Close upper annular, break circulation down kill line with returns up choke. Close choke fail safe & apply 1,000 psi on back side with rig pumps for 10 min(OK). Bleed off 
+",,,,,,,,,,,,
+"pressure from backside.
+",,,,,,,,,,,,
+"Break circulation & test Halliburton lines to 6,500 psi for 5 min (OK). Apply 400 psi on top of upper IBOP with mud pumps. Apply 1000 psi on backside with rig pumps. Line up Halliburton cement unit up to pump down drill pipe.
+",,,,,,,,,,,,
+"Establish injection rates at 1/2 bpm with 650 psi, 1 bpm with 1320 psi, 2 bpm with 1690 psi, 3 bpm with 2010 psi, 4 bpm with 2350 psi with a total of 56 bbls pumped. Sting out of packer.
+",,,,,,,,,,,,
+"Perform cement squeeze into perfs. Halliburton Pump 20 bbls of 8.33 ppg spacer. Mix and pump 35 bbls (190 sks/196.5 cuft) 16.4 ppg Class H cement with Yield (cuft/sk) 1.06, and Mix water (gal/sk) 4.36 followed by 10 bbls of spacer. 
+",,,,,,,,,,,,
+"Halliburton displace drill string with 231 bbls of 10.4 ppg Brine placing 10 bbls of spacer out of stinger while taking returns up the choke line and maintain 500 psi back pressure on choke. Sting into retainer and squeeze 10 bbls of spacer and 10 bbls of cement below cement retainer with max pressure of 5,000 psi. Halliburton bleed off to 1,000 psi. Open Upper Annular. Pull stinger out of retainer. Observe Halliburton pressure bleed off. Halliburton pump 25 bbls of cement to balance plug on top of retainer.
+",,,,,,,,,,,,
+"Rig down cement lines. POOH from 17,000' to 16,439'.
+",,,,,,,,,,,,
+"Install wiper ball and circulate bottoms up with 8 bpm=750 psi on drill pipe, boost with 14 bpm= 1,000 psi, and pump down choke and kill lines with 10 bpm= 250 psi. Reciprocate and rotate drill string with 100 rpm= 6k torque. Observed 180 units of gas with 10.3 ppg fluid cut. Space out drill string and perform Function Test on BOP components due to cement job. Pump 40 bbls of Spike fluid.
+",,,,,,,,,,,,
+"POOH from 16,439' to 394' with stinger. Monitor well on trip tank. Hole taking proper fill. While POOH function all shear rams due to cement job.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/10/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"POOH from 394'. Test cement retainer against BSR to 3000 psi for 15 min. PU & RIH w/ Baker Cement Retainer/TCP Gun System (9 7/8"" x 13 3/8"").
+",,,,,,,,,,,,
+"Set retainer @ 14,979'(TCP @ 15,100-15,110'). Line up and break circulation 
+",,,,,,,,,,,,
+"down kill line with cement unit. Close Lower Annular and test top side of retainer  1,000 psi f/ 5 min with cement unit with 10.4 PPG CaCl2. Open Lower Annular. Release stinger from retainer, pick up 5' and sting back into retainer.
+",,,,,,,,,,,,
+"Perforate 9 7/8"" casing; establish injection rates.
+",,,,,,,,,,,,
+"Unsting from retainer & P/U 5'. Halliburton pump 20 bbls of 8.33 ppg gel spacer. Mix and pump 30 bbls (159 sks/168.4 cuft) 16.4 ppg Class H cement with Yield (cuft/sk) 1.07, and Mix water (gal/sk) 4.43 followed by 10 bbls of spacer. Halliburton displace drill string with 205 bbls of 10.4 ppg Brine while taking returns up the choke line and maintain 500 psi back pressure on choke. Sting into retainer and squeeze 10 bbls of spacer and 20 bbls of cement into formation @ 4 bpm  1100-1500 psi. Bleed pressure off back side. Open Upper Annular. Pull stinger out of retainer. Halliburton spot 10 bbls balanced cement plug on top of retainer. Cement in place @ 17:00 hrs. Pump 40 bbls slug and POOH with cement stinger from 14,555' to 5931'. Hole taking proper fill. PU & rev out. POOH.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/11/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"POOH. Slip & cut drill line. Test cement retainer against BSR to 1,000 psi for 15 min. (Good test)
+",,,,,,,,,,,,
+"PU & RIH W/ Baker cement retainer/TCP gun assembly; set retainer at 12,267'. Close Upper Annular and test top side of retainer 1,000 psi for 5 min with cement unit with 10.4 PPG CaCl2. Open Lower Annular. Release stinger from retainer, pick up 5' and sting back into retainer.
+",,,,,,,,,,,,
+"Perforate 9 7/8"" x 13-5/8"" X 20"" casing.
+",,,,,,,,,,,,
+"Install surface shot detector. Fire guns with cement unit as per Baker TCP procedure  (Perfs at 12,387' to 12,397'). Establish injection rates with cement unit.
+",,,,,,,,,,,,
+"1 BPM = 65 psi, 10 bbls pumped, total of 10 bbls pumped. 2 BPM = 65 psi, 10 bbls pumped, total of 20 bbls pumped. 3 BPM = 515 psi, 14 bbls pumped, total of 34 bbls pumped. 4 BPM = 950 psi, 14 bbls pumped, total of 48 bbls pumped. 5 BPM = 1,485 
+",,,,,,,,,,,,
+"psi, 9 bbls pumped, total of 57 bbls pumped.
+",,,,,,,,,,,,
+"Unsting from retainer. Record stripping weights, P/U = 482k, S/O = 430k. Break circ with rig pump to fill pipe. Halliburton Pump 20 bbls of 8.33 ppg gel spacer. Mix and pump 50 bbls (265 sks/280.7 cuft) 16.4 ppg Class H cement with Yield (cuft/sk) 1.06, and Mix water (gal/sk) 4.42 followed by 10 bbls of spacer. Halliburton displace drill string with 137 bbls of 10.4 ppg Brine while taking returns up the choke line and maintain 500 psi back pressure on choke. Sting into retainer and squeeze 10 bbls of spacer and 40 bbls of cement into 9-7/8"" X 13-5/8"" X 20"" annulus (200') at  1100-1500 psi. Bleed pressure off back side. Open Upper Annular. Pull stinger out of retainer. Halliburton spot 100' balanced cement plug on top of retainer. Cement in place at 21:00 hrs.
+",,,,,,,,,,,,
+"PU & rev out. POOH t/ 10,955'. Hole taking proper fill.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/12/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"POOH t/ 9600'. WOC. Test cmt retainer. Spot 100' HEC pill from 9,600' - 9,500'. Spot 150' surface cmt plug; From 9,500' - 9,350. Pull above plug, circ btms up, wash and 
+",,,,,,,,,,,,
+"function BOP. WOC. Test Plug.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"POOH with cement stinger from 10,955' to 9,600'. Hole taking proper fill.
+",,,,,,,,,,,,
+"Wait on cement. Monitor well on trip tank.
+",,,,,,,,,,,,
+"Break circulation down kill line. Test lines to 1,000 psi. Close upper blind shear rams. Test cement plug to 1,000 psi for 15 min on chart with 10.4 ppg Brine. Open upper blind shear rams.
+",,,,,,,,,,,,
+"TIH from 8,887' to 9,600'. Hole giving proper displacement. Spot 10 bbl HEC pill from 9,600' to 9,500'. At 9,500' make up cement stand.Install lines and Halliburton break circulation. Test lines to 5,000 psi.
+",,,,,,,,,,,,
+"Close upper annular and take returns up the choke line and maintain 500 psi on choke. Drop foam wiper ball. Pump 20 bbls of 8.33 Gel spacer. Mix and pump 12.3 bbls 16.4 ppg Class H cement slurry 63 sacks, 67.4 cu/ft, Yield 1.08 cu/ft sk. Pump 7 bbls of 8.33 ppg gelled water spacer.  Open TIW valve and drop foam wiper ball. Halliburton displace cement with 145 bbls of 10.4 ppg Brine leaving 5 bbls under displacement.
+",,,,,,,,,,,,
+"Open upper annular. Remove cement lines. POOH from 9,500' to 9,260'. Circulate bottoms up with 8 bpm= 630 psi, Boost with 14 bpm= 1,100 psi and pump down choke and kill lines with 12 bpm= 230 psi.
+",,,,,,,,,,,,
+"Function upper and lower annulars and POOH from 9,260' to 9,070'. Function Upper & Lower Blind Shear Rams and Casing Rams. RIH back to 9,260'.
+",,,,,,,,,,,,
+"Circulate bottoms up at 9,260'. 8 BPM, 57 SPM, 580 psi down pipe, 12 BPM, 85 SPM, 230 psi on C/K lines, and 14 BPM, 100 SPM, 1,050 psi on booster line. 
+",,,,,,,,,,,,
+"Pull above BOP's to 9,153' and Wait on cement. While waiting break and lay down FMC test plug stand, Double dutch test stand, and CMT and remove all from rig floor. PM and service drilling equipment. Line up and break circulation with cement unit down kill line. Close valve and test line 1,000 psi, open valve.
+",,,,,,,,,,,,
+"Close Lower Blind shear ram and test cement retainer 1,000 psi for 15 min with 10.4 ppg CaCl2 with cement unit.
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Test to 1,000 psi for 15 minutes. 
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"6/13/2015
+",,,,,,,,,,,,
+"
+",,,,,,,,,,,,
+"Perform negative test. Close upper and lower annulars on 3 1/2"" drill pipe. Break circulation down drill string and apply 900 psi to test annulars down drill pipe. Break circulation down drill pipe and take returns up the kill line. Displace drill pipe with 154 bbls of sea water. Observe differential pressure of 907 psi. Once pressure stabilized close lower inner and outer kill fail-safe valves. Monitor pressure for 15 min. Bleed 1/2 bbl to 444 psi. Monitor for 5 min. Bleed 1 3/4 bbl to 0 psi. Monitor pressure on chart for 1 hr open to atmosphere. No flow for 1 hour (good negative test).
+",,,,,,,,,,,,
+Displace well to seawater. POOH. R/U to pull riser. Pull & L/D diverter.,,,,,,,,,,,,

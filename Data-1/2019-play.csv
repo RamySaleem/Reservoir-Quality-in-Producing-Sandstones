@@ -1,0 +1,120 @@
+CHRONOZONE,PLAY_TYPE,PLAY,PLAY_NUMBER,PLAY_NAME_DESCRIPTION
+PLU,R1,PLU_R1,0121,Upper Pleistocene Retrogradation Play
+PLU,A1,PLU_A1,0141,Upper Pleistocene Aggradational Play
+PLU,P1,PLU_P1,0161,Upper Pleistocene Progradational Play
+PLU,F1,PLU_F1,0181,Upper Pleistocene Fan 1 Play
+PLU,F2,PLU_F2,0182,Upper Pleistocene Fan 2 Play
+PLM,R1,PLM_R1,0321,Middle Pleistocene Retrogradational Play
+PLM,A1,PLM_A1,0341,Middle Pleistocene Aggradational Play
+PLM,P1,PLM_P1,0361,Middle Pleistocene Progradational Play
+PLM,F1,PLM_F1,0381,Middle Pleistocene Fan 1 Play
+PLM,F2,PLM_F2,0382,Middle Pleistocene Fan 2 Play
+PLL,R1,PLL_R1,0521,Lower Pleistocene Retrogradational Play
+PLL,A1,PLL_A1,0541,Lower Pleistocene Aggradational Play
+PLL,P1,PLL_P1,0561,Lower Pleistocene Progradational Play
+PLL,F1,PLL_F1,0581,Lower Pleistocene Fan 1 Play
+PLL,F2,PLL_F2,0582,Lower Pleistocene Fan 2 Play
+PU,R1,PU_R1,0921,Upper Pliocene Retrogradational Play
+PU,A1,PU_A1,0941,Upper Pliocene Aggradational Play
+PU,P1,PU_P1,0961,Upper Pliocene Progradational Play
+PU,F1,PU_F1,0981,Upper Pliocene Fan 1 Play
+PU,F2,PU_F2,0982,Upper Pliocene Fan 2 Play
+PL,R1,PL_R1,1221,Lower Pliocene Retrogradational Play
+PL,A1,PL_A1,1241,Lower Pliocene Aggradational Play
+PL,P1,PL_P1,1261,Lower Pliocene Progradational Play
+PL,F1,PL_F1,1281,Lower Pliocene Fan 1 Play
+PL,F2,PL_F2,1282,Lower Pliocene Fan 2 Play
+MUU,R1,MUU_R1,1321,Upper Upper Miocene Retrogradational Play
+MUU,A1,MUU_A1,1341,Upper Upper Miocene Aggradational Play
+MUU,P1,MUU_P1,1361,Upper Upper Miocene Progradational Play
+MUU,F1,MUU_F1,1381,Upper Upper Miocene Fan 1 Play
+MUU,F2,MUU_F2,1382,Upper Upper Miocene Fan 2 Play
+MLU,R1,MLU_R1,1721,Lower Upper Miocene Retrogradational Play
+MLU,A1,MLU_A1,1741,Lower Upper Miocene Aggradational Play
+MLU,P1,MLU_P1,1761,Lower Upper Miocene Progradational Play
+MLU,F1,MLU_F1,1781,Lower Upper Miocene Fan 1 Play
+MLU,F2,MLU_F2,1782,Lower Upper Miocene Fan 2 Play
+MUM,R1,MUM_R1,1921,Upper Middle Miocene Retrogradational Play
+MUM,A1,MUM_A1,1941,Upper Middle Miocene Aggradational Play
+MUM,P1,MUM_P1,1961,Upper Middle Miocene Progradational Play
+MUM,F1,MUM_F1,1981,Upper Middle Miocene Fan 1 Play
+MUM,F2,MUM_F2,1982,Upper Middle Miocene Fan 2 Play
+MMM,R1,MMM_R1,2121,Middle Middle Miocene Retrogradational Play
+MMM,A1,MMM_A1,2141,Middle Middle Miocene Aggradational Play
+MMM,P1,MMM_P1,2161,Middle Middle Miocene Progradational Play
+MMM,S1,MMM_S1,2171,Middle Middle Miocene Structural Seagull Play
+MMM,F1,MMM_F1,2181,Middle Middle Miocene Fan 1 Play
+MMM,F2,MMM_F2,2182,Middle Middle Miocene Fan 2 Play
+MLM,R1,MLM_R1,2421,Lower Middle Miocene Retrogradational Play
+MLM,A1,MLM_A1,2441,Lower Middle Miocene Aggradational Play
+MLM,P1,MLM_P1,2461,Lower Middle Miocene Progradational Play
+MLM,F1,MLM_F1,2481,Lower Middle Miocene Fan 1 Play
+MLM,F2,MLM_F2,2482,Lower Middle Miocene Fan 2 Play
+MUL,R1,MUL_R1,2621,Upper Lower Miocene Retrogradational Play
+MUL,A1,MUL_A1,2641,Upper Lower Miocene Aggradational Play
+MUL,P1,MUL_P1,2661,Upper Lower Miocene Progradational Play
+MUL,F1,MUL_F1,2681,Upper Lower Miocene Fan 1 Play
+MUL,F2,MUL_F2,2682,Upper Lower Miocene Fan 2 Play
+MML,R1,MML_R1,2821,Middle Lower Miocene Retrogradational Play
+MML,A1,MML_A1,2841,Middle Lower Miocene Aggradational Play
+MML,P1,MML_P1,2861,Middle Lower Miocene Progradational Play
+MML,F1,MML_F1,2881,Middle Lower Miocene Fan 1 Play
+MML,F2,MML_F2,2882,Middle Lower Miocene Fan 2 Play
+MLL,R1,MLL_R1,3021,Lower Lower Miocene Retrogradational Play
+MLL,A1,MLL_A1,3041,Lower Lower Miocene Aggradational Play
+MLL,P1,MLL_P1,3061,Lower Lower Miocene Progradational Play
+MLL,F1,MLL_F1,3081,Lower Lower Miocene Fan 1 Play
+MLL,F2,MLL_F2,3082,Lower Lower Miocene Fan 2 Play
+OU,F1,OU_F1,3281,Upper Oligocene Fan 1 Play
+OU,F2,OU_F2,3282,Upper Oligocene Fan 2 Play
+OL,C1,OL_C1,3511,Lower Oligocene Clastic Vicksburg Group Play
+OL,F1,OL_F1,3581,Lower Oligocene Fan 1 Play
+OL,F2,OL_F2,3582,Lower Oligocene Fan 2 Play
+EU,B1,EU_B1,3701,Upper Eocene Carbonate Jackson Group Play
+EM,B1,EM_B1,3901,Middle Eocene Carbonate Clairborne Group Play
+KUU,B1,KUU_B1,4601,Upper Upper Cretaceous Carbonate Selma/Eutaw (Maastrichtian to Coniacian Age) Play
+KLU,C1,KLU_C1,4911,Lower Upper Cretaceous Clastic Tuscaloosa Formation (Cenomanian Age) Play
+KUL,B1,KUL_B1,5201,Upper Lower Cretaceous Carbonate Andrew Formation (Albian Age) Play
+KML,B1,KML_B1,5401,Middle Lower Cretaceous Carbonate Mooringsport Formation (Albian Age) Play
+KLL,B1,KLL_B1,5701,Lower Lower Cretaceous James Limestone (Aptian Age) Play
+KLL,B2,KLL_B2,5702,Lower Lower Cretaceous Carbonate Sligo Formation (Aptian Age) Play
+JU,B1,JU_B1,6201,Upper Jurassic Carbonate Smackover Formation (Oxfordian Age) Play
+JU,BC1,JU_BC1,6231,Upper Jurassic Buried Hill Drape Play
+JU,X1,JU_X1,6291,Upper Jurassic Perdido Fold Belt Play
+JU,X2,JU_X2,6292,Upper Jurassic Mississippi Fan Fold Belt Play
+PU-PL,B1,PU-PL_B1,9901,Upper to Lower Pliocene Caprock Play
+MML-OU,B2,MML-OU_B2,9902,Lower Miocene to Upper Oligocene Tampa Limestone Play
+OU-LL,B3,OU-LL_B3,9903,Lower Tertiary Carbonate Play
+KUU-JU,B4,KUU-JU_B4,9904,Cretaceous to Upper Jurassic Deep Shelf Carbonate Play
+KUU-TRL,B5,KUU-TRL_B5,9905,Mesozoic Carbonate Play
+KUL-KLL,B6,KUL-KLL_B6,9906,Lower Cretaceous Carbonate Sunniland Formation Play
+KUL-KLL,B7,KUL-KLL_B7,9907,Lower Cretaceous Carbonate South Florida Basin Play
+OU-LL,C1,OU-LL_C1,9911,Lower Tertiary Clastic Play
+OL-LL,C2,OL-LL_C2,9912,Lower Tertiary Clastic Gas Play
+OL-LL,C3,OL-LL_C3,9913,Lower Tertiary Clastic Gas/Oil Play
+EL-LU,C4,EL-LU_C4,9914,Lower Eocene to Upper Paleocene Clastic Wilcox Group Play
+LU-LL,C5,LU-LL_C5,9915,Paleocene Clastic Midway Group Play
+KUU-TRL,C6,KUU-TRL_C6,9916,Mesozoic Clastic Play
+KLU-KLL,C7,KLU-KLL_C7,9917,Cretaceous Clastic Dantzler/Paluxy/Hosston Play
+JU-JM,C8,JU-JM_C8,9918,Jurassic Florida Basal Clastic Play
+OU-LL,BC1,OU-LL_BC1,9931,Lower Tertiary Carbonate/Clastic Play
+EL-LL,BC2,EL-LL_BC2,9932,Lower Eocene to Paleocene Buried Hill Drape Play
+KUU-KLL,BC3,KUU-KLL_BC3,9933,Cretaceous Buried Hill Drape Play
+KUU-JU,BC4,KUU-JU_BC4,9934,Cretaceous to Upper Jurassic Buried Hill Stratigraphic-Detrital Play
+KUU-TRL,BC5,KUU-TRL_BC5,9935,Mesozoic Buried Hill Structural Play
+KUU-TRL,BC6,KUU-TRL_BC6,9936,Mesozoic Carbonate/Clastic Play
+KUL-JU,BC7,KUL-JU_BC7,9937,Lower Cretaceous to Upper Jurassic Transition Zone Play
+KLL-JU,BC8,KLL-JU_BC8,9938,Lower Cretaceous to Upper Jurassic Cotton Valley/Haynesville Group (Valanginian to Kimmeridgian Age) Play
+JU-JM,A1,JU-JM_A1,9941,Jurassic Aggradational Norphlet Formation (Oxfordian to Callovian Age) Play
+MUU-MMM,AP1,MUU-MMM_AP1,9951,Upper to Middle Miocene Shallow Bright Spot Trend Play
+OU-LL,P1,OU-LL_P1,9961,Lower Tertiary Progradational Play
+MUM-MMM,S1,MUM-MMM_S1,9971,Middle Miocene Structural Corsair Play
+KUU-JU,S2,KUU-JU_S2,9972,Cretaceous to Upper Jurassic Salt Roller/High-Relief Salt Structure Play
+EU-LL,F1,EU-LL_F1,9981,Eocene to Paleocene Fan 1 Play
+EU-LL,F2,EU-LL_F2,9982,Eocene to Paleocene Fan 2 Play
+PLU-LL,F3,PLU-LL_F3,9983,Cenozoic Fan 3 Play
+PLU-LL,X1,PLU-LL_X1,9991,Cenozoic Perdido Fold Belt Play
+PLU-LL,X2,PLU-LL_X2,9992,Cenozoic Mississippi Fan Fold Belt Play
+PLU-LL,X3,PLU-LL_X3,9993,Cenozoic Port Isabel Fold Belt Play
+KUU-KLL,X4,KUU-KLL_X4,9994,Cretaceous Perdido Fold Belt Play
+KUU-KLL,X5,KUU-KLL_X5,9995,Cretaceous Mississippi Fan Fold Belt Play

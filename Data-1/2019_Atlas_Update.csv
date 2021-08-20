@@ -1,0 +1,51 @@
+BOEM_CHRONOZONE,CHRONOZONE_DESCRIPTION
+PLU,Upper Pleistocene
+PLM,Middle Pleistocene
+PLL,Lower Pleistocene
+PU,Upper Pliocene
+PL,Lower Pliocene
+MUU,Upper Upper Miocene
+MLU,Lower Upper Miocene
+MUM,Upper Middle Miocene
+MMM,Middle Middle Miocene
+MLM,Lower Middle Miocene
+MUL,Upper Lower Miocene
+MML,Middle Lower Miocene
+MLL,Lower Lower Miocene
+OU,Upper Oligocene
+OL,Lower Oligocene
+EU,Upper Eocene
+EM,Middle Eocene
+EL,Lower Eocene
+LU,Upper Paleocene
+LL,Lower Paleocene
+KUU,Upper Upper Cretaceous
+KLU,Lower Upper Cretaceous
+KUL,Upper Lower Cretaceous
+KML,Middle Lower Cretaceous
+KLL,Lower Lower Cretaceous
+JU,Upper Jurassic
+JM,Middle Jurassic
+JL,Lower Jurassic
+TRU,Upper Triassic
+TRM,Middle Triassic
+TRL,Lower Triassic
+MML-OU,05_Lower Miocene to Upper Oligocene
+PLU-LL,01_Cenozoic
+KLU-KLL,15_Cretaceous
+PU-PL,02_Upper to Middle Pliocene
+EL-LU,09_Lower Eocene to Upper Paleocene
+OU-LL,06_Lower Tertiary
+OL-LL,07_Lower Tertiary
+EL-LL,10_Lower Eocene to Paleocene
+KUU-KLL,12_Cretaceous
+KUU-JU,13_Cretaceous to Upper Jurassic
+KUU-TRL,14_Mesozoic
+KUL-KLL,16_Lower Cretaceous
+KUL-JU,17_Lower Cretaceous to Upper Jurassic
+KLL-JU,18_Lower Cretaceous to Upper Jurassic
+JU-JM,19_Jurassic
+EU-LL,08_Eocene to Paleocene
+MUM-MMM,04_Middle Miocene
+MUU-MMM,03_Upper to Middle Miocene
+LU-LL,11_Paleocene
