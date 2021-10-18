@@ -4,5 +4,5 @@ This project will explore, analyse and visualise publicly available wells datase
 
 
 <center>
-    <img src="https://imgur.com/eNQX1kA" width="1200" alt="cognitiveclass.ai logo"  />
+    <gif src="https://imgur.com/eNQX1kA" width="1200" alt="cognitiveclass.ai logo"  />
 </center>
